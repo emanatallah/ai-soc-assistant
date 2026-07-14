@@ -1,0 +1,17 @@
+streamlit
+python-nmap
+requests
+dnspython
+python-whois
+beautifulsoup4
+networkx
+plotly
+reportlab
+pandas
+rich
+colorama
+ollama
+tldextract
+cryptography
+python-dotenv
+
