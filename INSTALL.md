@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ## Run
 
 ```powershell
-streamlit run app.py
+python app.py
 ```
 
 The SQLite database and generated reports are stored under `history/`.
@@ -35,4 +35,3 @@ The SQLite database and generated reports are stored under `history/`.
 - `AI_SOC_USER_AGENT`
 - `AI_SOC_MAX_SUBDOMAINS`
 - `OLLAMA_HOST`
-
